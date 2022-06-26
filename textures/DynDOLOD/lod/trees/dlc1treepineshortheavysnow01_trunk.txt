@@ -1,0 +1,23 @@
+[LOD]
+Width=491.491638
+Depth=503.015686
+Height=1497.879272
+ShiftX=0.000000
+ShiftY=0.000000
+ShiftZ=-66.096878
+Scale=1.000000
+Width_1=483.158813
+Height_1=1497.879272
+Adjust_1=-0.950958
+CRC32_1=C46D0CF8
+Width_2=453.354675
+Height_2=1506.760010
+Adjust_2=-24.830505
+CRC32_2=AD81B5A4
+Model=E:\MyList\tools\DynDOLOD\Edit Scripts\DynDOLOD\Render\Billboards\DynDOLOD\lod\trees\dlc1treepineshortheavysnow01_trunk.nif
+ModelCRC32=71FE6844
+Texture_1=textures\landscape\trees\TreePineForestBarkCompSnow_N.dds
+TextureCRC32_1=367F96DF
+Texture_2=textures\landscape\trees\TreePineForestBarkCompSnow.dds
+TextureCRC32_2=D5840146
+

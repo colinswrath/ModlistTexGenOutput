@@ -1,0 +1,23 @@
+[LOD]
+Width=480.605286
+Depth=427.508514
+Height=627.729370
+ShiftX=0.000000
+ShiftY=0.000000
+ShiftZ=-25.658003
+Scale=1.000000
+Width_1=476.185608
+Height_1=627.729370
+Adjust_1=39.240936
+CRC32_1=64E940A6
+Width_2=386.208008
+Height_2=627.729370
+Adjust_2=-5.890712
+CRC32_2=86B7F2A8
+Model=E:\MyList\tools\DynDOLOD\Edit Scripts\DynDOLOD\Render\Billboards\DynDOLOD\lod\trees\reachtree01_trunk.nif
+ModelCRC32=94715A44
+Texture_1=textures\landscape\trees\TundraDriftWoodBark01.dds
+TextureCRC32_1=8460E50E
+Texture_2=textures\landscape\trees\TundraDriftWoodBark01_N.dds
+TextureCRC32_2=F9E855CB
+

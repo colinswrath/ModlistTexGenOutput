@@ -1,0 +1,23 @@
+[LOD]
+Width=433.473236
+Depth=469.232880
+Height=1981.591919
+ShiftX=0.000000
+ShiftY=0.000000
+ShiftZ=-87.742256
+Scale=1.000000
+Width_1=426.514313
+Height_1=1981.591919
+Adjust_1=-18.571017
+CRC32_1=4EA6BB73
+Width_2=437.418152
+Height_2=1985.523560
+Adjust_2=-5.320499
+CRC32_2=F3CC0FB0
+Model=E:\MyList\tools\DynDOLOD\Edit Scripts\DynDOLOD\Render\Billboards\DynDOLOD\lod\trees\treepineforestdead04_trunk.nif
+ModelCRC32=9D0C56AA
+Texture_1=textures\landscape\trees\TreePineForestBarkComp.dds
+TextureCRC32_1=E2AB817A
+Texture_2=textures\landscape\trees\TreePineForestBarkComp_N.dds
+TextureCRC32_2=3A7A3633
+

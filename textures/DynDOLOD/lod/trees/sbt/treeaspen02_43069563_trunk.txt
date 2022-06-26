@@ -1,0 +1,23 @@
+[LOD]
+Width=325.489838
+Depth=521.492615
+Height=1811.421631
+ShiftX=0.000000
+ShiftY=0.000000
+ShiftZ=-28.119627
+Scale=1.000000
+Width_1=324.413940
+Height_1=1811.421631
+Adjust_1=76.509770
+CRC32_1=46F593E6
+Width_2=475.145020
+Height_2=1934.229980
+Adjust_2=11.678352
+CRC32_2=6995587D
+Model=E:\MyList\tools\DynDOLOD\Edit Scripts\DynDOLOD\Render\Billboards\DynDOLOD\lod\trees\sbt\treeaspen02_43069563_trunk.nif
+ModelCRC32=61AE359C
+Texture_1=textures\landscape\trees\TreeAspenBarkComp_N.dds
+TextureCRC32_1=7AC0B1FB
+Texture_2=textures\landscape\trees\TreeAspenBarkComp.dds
+TextureCRC32_2=712E11BC
+

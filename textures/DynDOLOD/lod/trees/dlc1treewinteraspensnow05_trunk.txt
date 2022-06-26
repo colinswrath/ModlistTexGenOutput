@@ -1,0 +1,23 @@
+[LOD]
+Width=134.930374
+Depth=106.013428
+Height=575.702942
+ShiftX=0.000000
+ShiftY=0.000000
+ShiftZ=-15.999992
+Scale=1.000000
+Width_1=130.650681
+Height_1=575.702942
+Adjust_1=2.333065
+CRC32_1=702DC672
+Width_2=106.013428
+Height_2=582.781311
+Adjust_2=0.000000
+CRC32_2=802F4CB4
+Model=E:\MyList\tools\DynDOLOD\Edit Scripts\DynDOLOD\Render\Billboards\DynDOLOD\lod\trees\dlc1treewinteraspensnow05_trunk.nif
+ModelCRC32=06D50F47
+Texture_1=textures\landscape\trees\TreeAspenBarkComp_N.dds
+TextureCRC32_1=7AC0B1FB
+Texture_2=textures\landscape\trees\TreeAspenBarkComp.dds
+TextureCRC32_2=712E11BC
+

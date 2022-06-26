@@ -1,0 +1,23 @@
+[LOD]
+Width=291.438660
+Depth=222.693283
+Height=518.113159
+ShiftX=0.000000
+ShiftY=0.000000
+ShiftZ=-255.366806
+Scale=1.000000
+Width_1=278.514130
+Height_1=518.113159
+Adjust_1=6.035335
+CRC32_1=D873B61E
+Width_2=217.671753
+Height_2=514.033508
+Adjust_2=-1.520195
+CRC32_2=E95D9779
+Model=E:\MyList\tools\DynDOLOD\Edit Scripts\DynDOLOD\Render\Billboards\DynDOLOD\lod\trees\tundradriftwood01_trunk.nif
+ModelCRC32=50CEBEB7
+Texture_1=textures\landscape\trees\TundraDriftWoodBark01.dds
+TextureCRC32_1=8460E50E
+Texture_2=textures\landscape\trees\TundraDriftWoodBark01_N.dds
+TextureCRC32_2=F9E855CB
+

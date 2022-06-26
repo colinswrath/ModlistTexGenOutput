@@ -1,0 +1,23 @@
+[LOD]
+Width=221.410751
+Depth=273.556915
+Height=674.775635
+ShiftX=0.000000
+ShiftY=0.000000
+ShiftZ=-64.000008
+Scale=1.000000
+Width_1=211.825653
+Height_1=674.775635
+Adjust_1=9.214417
+CRC32_1=C3D9F1C6
+Width_2=269.209473
+Height_2=677.507507
+Adjust_2=2.913984
+CRC32_2=2E5F3163
+Model=E:\MyList\tools\DynDOLOD\Edit Scripts\DynDOLOD\Render\Billboards\DynDOLOD\lod\trees\treepineforestash03_trunk.nif
+ModelCRC32=41C0947D
+Texture_1=textures\dlc02\landscape\trees\TreePineForestBarkCompAsh.dds
+TextureCRC32_1=117AF7C3
+Texture_2=textures\landscape\trees\TreePineForestBarkCompSnow_N.dds
+TextureCRC32_2=367F96DF
+

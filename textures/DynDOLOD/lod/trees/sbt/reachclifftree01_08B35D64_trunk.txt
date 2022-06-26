@@ -1,0 +1,23 @@
+[LOD]
+Width=614.277649
+Depth=815.004456
+Height=819.036865
+ShiftX=0.000000
+ShiftY=0.000000
+ShiftZ=-68.709106
+Scale=1.000000
+Width_1=613.949341
+Height_1=819.036865
+Adjust_1=-33.468536
+CRC32_1=7854C3F1
+Width_2=568.408264
+Height_2=815.824951
+Adjust_2=120.086777
+CRC32_2=18F84002
+Model=E:\MyList\tools\DynDOLOD\Edit Scripts\DynDOLOD\Render\Billboards\DynDOLOD\lod\trees\sbt\reachclifftree01_08B35D64_trunk.nif
+ModelCRC32=BAC08CE5
+Texture_1=textures\landscape\trees\TundraDriftWoodBark01.dds
+TextureCRC32_1=8460E50E
+Texture_2=textures\landscape\trees\TundraDriftWoodBark01_N.dds
+TextureCRC32_2=F9E855CB
+
